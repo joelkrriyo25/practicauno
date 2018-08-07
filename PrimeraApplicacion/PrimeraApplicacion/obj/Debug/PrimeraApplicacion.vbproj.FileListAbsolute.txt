@@ -1,0 +1,9 @@
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\bin\Debug\PrimeraApplicacion.exe
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\bin\Debug\PrimeraApplicacion.pdb
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\bin\Debug\PrimeraApplicacion.xml
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\obj\Debug\PrimeraApplicacion.Resources.resources
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\obj\Debug\PrimeraApplicacion.vbproj.GenerateResource.Cache
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\obj\Debug\PrimeraApplicacion.exe
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\obj\Debug\PrimeraApplicacion.xml
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\obj\Debug\PrimeraApplicacion.pdb
+C:\Users\i5-LAB-408\Desktop\PrimeraApplicacion\PrimeraApplicacion\obj\Debug\PrimeraApplicacion.Ejemplo1.resources
